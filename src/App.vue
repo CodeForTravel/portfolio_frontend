@@ -8,8 +8,8 @@
         <div class="relative w-16 h-16">
           <img
             class="rounded-full border border-gray-100 shadow-sm"
-            src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=512&h=512&q=80"
             alt="user image"
+            src="./assets/mohammad_faisal_avatar.png"
           />
         </div>
         <!-- Mobile menu button -->
@@ -47,19 +47,21 @@
         <h3
           class="hello-button text-gray-700 w-fit md:py-3 md:px-5 py-1 px-2 rounded-lg 3xl:text-3xl 2xl:text-xl lg:text-xl md:text-md text-sm font-semibold font-work_sans"
         >
-          👋 Hola,
+          👋 Hello,
         </h3>
         <h1
           class="3xl:text-8xl 2xl:text-7xl xl:text-6xl lg:text-4xl md:text-3xl sm:text-3xl text-xl font-Eczar font-bold leading-tight text-gray-700"
         >
           It's
           <a
-            href="https://www.linkedin.com/"
+            href="https://www.linkedin.com/in/mohammad-faisal-59695b170/"
             target="_blank"
             class="text-black hover:underline"
           >
-            Aliza Khan</a
-          >🙇‍♀️<br />Creative Designer and Storyteller
+            Mohammad Faisal
+            </a>
+            <br />
+            Proficient Software Engineer
         </h1>
 
         <div class="md:flex gap-1 md:gap-10">
